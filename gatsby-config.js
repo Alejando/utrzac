@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Unidad de Terapia Renal S.C.`,
+    description: `Unidad de Terapia Renal S.C. es una empresa Zacatecana dedicada al tratamiendo de problemas relacionada al riñon`,
+    author: `Alejandro Prado`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
